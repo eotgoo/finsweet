@@ -729,6 +729,7 @@ footer p{
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
     padding-top: 96px;
+    margin-bottom: 128px;
 }
 .blog-section-title{
     font-size: 48px;
